@@ -1,0 +1,105 @@
+<html>
+<head>
+<title>SITIO WEB</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/boton 2.png','images/boton 3.png','images/boton4.png','images/boton5.png','images/boton.png','images/boton 4.png','images/boton 1.png','images/boton 6.png','images/boton 7.png','images/boton 8.png')">
+<!-- Save for Web Slices (SITIO WEB.psd) -->
+<table id="Tabla_01" width="1400" height="2669" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="12">
+			<img src="images/Animalplanet-Index_01.png" width="1400" height="34" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/Animalplanet-Index_02.png" width="35" height="202" alt=""></td>
+		<td colspan="9">
+		  <img src="images/Animalplanet-Index_03.png" width="1340" height="202" alt=""></td>
+		<td rowspan="7">
+			<img src="images/Animalplanet-Index_04.png" width="25" height="2634" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<img src="images/Animalplanet-Index_05.png" width="33" height="2432" alt=""></td>
+		<td colspan="2"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','images/boton.png',1)"><img src="images/Animalplanet-Index_06.png" alt="" width="334" height="60" id="about"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','images/boton5.png',1)"></a></td>
+		<td colspan="3"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('productos','','images/boton 2.png',1)"><img src="images/Animalplanet-Index_07.png" alt="" width="338" height="60" id="productos"></a></td>
+		<td colspan="3"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contacto','','images/boton4.png',1)"><img src="images/Animalplanet-Index_08.png" alt="" width="334" height="60" id="contacto"></a></td>
+		<td colspan="2"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('order','','images/boton 3.png',1)"><img src="images/Animalplanet-Index_09.png" alt="" width="336" height="60" id="order"></a></td>
+	</tr>
+	<tr>
+		<td colspan="6"><a href="pag1/SITIO-WEBdatos-anmialitos.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('pingui','','images/boton 1.png',1)"><img src="images/Animalplanet-Index_10.png" alt="" width="895" height="763" id="pingui"></a></td>
+		<td colspan="4">
+			<img src="images/Animalplanet-Index_11.png" width="447" height="763" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3"><a href="https://www.instagram.com/animalplanet/" target="_blank" onMouseOver="MM_swapImage('redes','','images/boton 4.png',1)" onMouseOut="MM_swapImgRestore()"><img src="images/Animalplanet-Index_12.png" alt="" width="337" height="573" id="redes"></a></td>
+		<td colspan="7"><a href="pag2/SitioWeb-aniamldelmes.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('mapache','','images/boton5.png',1)"><img src="images/Animalplanet-Index_13.png" alt="" width="1005" height="573" id="mapache"></a></td>
+	</tr>
+	<tr>
+		<td colspan="4"><a href="pag3/Sitio-Web-pag-gatitos-historicos.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gaticos','','images/boton 6.png',1)"><img src="images/Animalplanet-Index_14.png" alt="" width="447" height="955" id="gaticos"></a></td>
+		<td colspan="3"><a href="pag4/sitio-webtu-mascotaytu.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('tips','','images/boton 7.png',1)"><img src="images/Animalplanet-Index_15.png" alt="" width="449" height="955" id="tips"></a><a href="pag4/sitio-webtu-mascotaytu.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('tips','','images/boton 7.png',1)"></a></td>
+		<td colspan="3"><a href="pag5/sitio-webwild-frank.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('frank','','images/boton 8.png',1)"><img src="images/Animalplanet-Index_16.png" alt="" width="446" height="955" id="frank"></a><a href="pag5/sitio-webwild-frank.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('frank','','images/boton 8.png',1)"></a><a href="pag5/sitio-webwild-frank.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('frakn','','images/boton 8.png',1)"></a></td>
+	</tr>
+	<tr>
+		<td colspan="9">
+			<img src="images/Animalplanet-Index_17.png" width="1340" height="49" alt=""></td>
+		<td rowspan="2">
+			<img src="images/Animalplanet-Index_18.png" width="2" height="81" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="9">
+			<img src="images/Animalplanet-Index_19.png" width="1340" height="32" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/espacio.gif" width="33" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="2" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="332" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="3" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="110" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="225" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="223" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="110" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="334" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="2" height="1" alt=""></td>
+		<td>
+			<img src="images/espacio.gif" width="25" height="1" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
